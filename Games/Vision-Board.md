@@ -74,3 +74,7 @@ Share your vision board with the community
 - Review your teammates' pull requests thoroughly and provide constructive feedback.
 - Resolve conflicts promptly to avoid delaying the project timeline.
 - Celebrate your success as a team!
+
+<h2>Collaboration</h2>
+<p>my team collaborated for well for the tasks</p>
+![my team collaborating](https://www.google.com/imgres?imgurl=http%3A%2F%2Fdirectorpoint.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fcollaborate-1024x587.jpg&tbnid=tGBFhV1jsDUdsM&vet=12ahUKEwj37-i4jqqCAxUsk_0HHRlYAhEQMygVegUIARCNAQ..i&imgrefurl=https%3A%2F%2Flanding.directorpoint.com%2Fboard-members-2%2Fstrengthening-board-collaboration%2F&docid=SwpvfAyvnne3rM&w=1024&h=587&q=people%20collaborating&client=firefox-b-e&ved=2ahUKEwj37-i4jqqCAxUsk_0HHRlYAhEQMygVegUIARCNAQ)
