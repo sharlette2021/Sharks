@@ -14,6 +14,7 @@ Skills
 ## Collaboration
 - Insert a meme/image that represents your team's communication and collaboration strategy for Game of Learners
 - Insert a meme/image that represents your team's approach to giving and receiving feedback during Game of Learners
+  
 
 ## Success
 - Insert a meme/image that represents what success in Game of Learners looks like for your team
@@ -27,3 +28,6 @@ Our vision is to make a better community with rural students learning and access
 ![Happy Kids](conclusions/happy_kids.jpg)
 
 Feel free to modify and customize this template as needed to fit your specific team's goals and objectives! But this is just a guide on what you can inlude in the board
+![Our members collaborating](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2hDZ3SfpZ_6Z35KMacDiItbG7L0O-fxxdrg&usqp=CAU)
+
+We have a very hardworking team which works together to ensure all the groups objectives are met
