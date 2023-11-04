@@ -16,6 +16,9 @@ Skills
 - Insert a meme/image that represents your team's approach to giving and receiving feedback during Game of Learners
 
 ## Success
+![Project success](africanchildrensuccess.jpg)
+![African childern success](Books-For-Africa.jpg)
+
 - Insert a meme/image that represents what success in Game of Learners looks like for your team
 - Insert a meme/image that represents the rewards and benefits of achieving your team's goals in Game of Learners
 
