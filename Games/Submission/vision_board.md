@@ -1,4 +1,4 @@
-# [Team_Name] Vision Board
+# Sharks Vision Board
 
 ## Introduction
 Insert a meme/image that represents your team's motivation and inspiration for participating in Game of Learners Season 4.
@@ -20,6 +20,10 @@ Skills
 - Insert a meme/image that represents the rewards and benefits of achieving your team's goals in Game of Learners
 
 ## Conclusion
-- Insert a meme/image that represents your team's excitement and enthusiasm for Game of Learners
+### Working towards a hhappy learning community
+![Students learning](conclusions/conclusions.jpeg)
+Our vision is to make a better community with rural students learning and accessing resources with no limits.
+
+![Happy Kids](conclusions/happy_kids.jpg)
 
 Feel free to modify and customize this template as needed to fit your specific team's goals and objectives! But this is just a guide on what you can inlude in the board
